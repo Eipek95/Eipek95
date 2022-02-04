@@ -20,7 +20,7 @@
 <div align="center"><h3>Connect with me: 📫</h3></div>
 <table align="center">
   <tr>
-    <td><a href="#"><img width="50" height="50" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" ></a>&nbsp;&nbsp;</td>
+    <!--<td><a href="#"><img width="50" height="50" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" ></a>&nbsp;&nbsp;</td>-->
     <td><a href="mailto:eipek1995@gmail.com/"><img width="50" height="50" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" ></a>&nbsp;&nbsp;</td>
     
   </tr>
