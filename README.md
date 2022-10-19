@@ -1,3 +1,4 @@
+<div align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></div>
 <div align="center"><h1>Hi there 👋, I'm Emre İpek</h1></div>
 
 <div align="center"><h3>Languages and Tools🌱</h3></div>
